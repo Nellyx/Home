@@ -1895,16 +1895,16 @@
   }
 
   #section4 .container .row .text-box .main-header {
-    width: 436px;
+    width: 90%;
     /* font-family: montserrat;
   font-weight: bold; */
     font-family: Montserrat;
     font-style: normal;
     font-weight: bold;
-    font-size: 40px;
+    font-size: 32px;
     line-height: 130.7%;
     color: #0b122b;
-  }
+    margin:auto;  }
 
   #section4 .container .row .text-box .css-button-sharp--blue {
     min-width: 130px;
@@ -1988,6 +1988,7 @@
   /* section 6 */
 
   #section6 {
+    display: none;
     background-image: url(images/JOCP.png);
     background-size: cover;
     padding-top: 30px;
@@ -2036,6 +2037,7 @@
   #section7 {
     padding-top: 30px;
     padding-bottom: 40px;
+    display: none;
   }
   #section7 .header {
     text-align: center;
@@ -2074,6 +2076,8 @@
   #section8 {
     padding-top: 20px;
     padding-bottom: 20px;
+    display: none;
+
   }
 
   #section8 .container {
@@ -2081,6 +2085,7 @@
     background-size: cover;
     position: relative;
     height: 190px;
+    display: none;
     border-radius: 9px;
   }
 
